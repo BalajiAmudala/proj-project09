@@ -21,14 +21,14 @@
    - Downlod section 
     - footer section
 
-    This is quite a big html page
+    - This is quite a big html page
 
 
 > CSS
 
 In style.css file i write all the code for the styling . 
 
-- i totally avoid inline & internal styling methods in this project 15 
+- i totally avoid inline & internal styling methods in this project 09 
 
 - i have used different selectors & classes to target the elements and style them as per the design.
 
